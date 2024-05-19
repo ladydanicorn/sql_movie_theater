@@ -1,0 +1,5 @@
+|customer_id|first_name|last_name|email                |phone_number|address            |
+|-----------|----------|---------|---------------------|------------|-------------------|
+|1          |John      |Doe      |johndoe@gmail.com    |123-456-7890|123 Main St, City  |
+|2          |Jane      |Smith    |janesmith@hotmail.com|987-654-3210|456 Broadway, Town |
+|3          |Mike      |Johnson  |mikejohnson@gmail.com|555-555-5555|789 Elm St, Village|

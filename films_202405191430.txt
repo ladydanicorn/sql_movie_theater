@@ -1,0 +1,5 @@
+|film_id|film_title                            |release_year|genre |director            |duration_minutes|
+|-------|--------------------------------------|------------|------|--------------------|----------------|
+|1      |The Adventures of Super Potato        |1,999       |Comedy|Mize Wazowski       |136             |
+|2      |Attack of the Killer Donuts           |2,010       |Horror|Dr. Phil            |148             |
+|3      |Ninjas vs. Pirates: Battle of the Ages|1,993       |Action|Schmeven Schmielberg|127             |

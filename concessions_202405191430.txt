@@ -1,0 +1,5 @@
+|concession_id|ticket_id|concession_item|concession_price|purchase_date|
+|-------------|---------|---------------|----------------|-------------|
+|1            |1        |Popcorn        |5.99            |2024-04-15   |
+|2            |1        |Soda           |3.99            |2024-04-15   |
+|3            |2        |Candy          |2.99            |2024-04-16   |
